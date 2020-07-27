@@ -4,7 +4,7 @@
 
 #print(f"Hello  {__name__}! , Hey ,It's a nice day ,isn't it ? ")
 
-GREETING = f"Hello", {__name__}! ,its a nice day "
+GREETING = f"Hello, {__name__}! ,its a nice day "
 
 def greet():
     print(GREETING)
